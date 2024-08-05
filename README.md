@@ -17,13 +17,13 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @misc{Chen2024,
-    author = {X. Chen, X.-L. Zhao and C. Cheng},
+    author =    {X. Chen, X.-L. Zhao and C. Cheng},
     publisher = {INFORMS Journal on Computing},
-    title = {Forecasting Urban Traffic States with Sparse Data Using Hankel Temporal Matrix Factorization},
-    year = {2024},
-    doi = {10.1287/ijoc.2022.0197.cd},
-    url = {https://github.com/INFORMSJoC/2022.0197},
-    note = {Available for download at https://github.com/INFORMSJoC/2022.0197},
+    title =     {Forecasting Urban Traffic States with Sparse Data Using Hankel Temporal Matrix Factorization},
+    year =      {2024},
+    doi =       {10.1287/ijoc.2022.0197.cd},
+    url =       {https://github.com/INFORMSJoC/2022.0197},
+    note =      {Available for download at https://github.com/INFORMSJoC/2022.0197},
 }
 ```
 
