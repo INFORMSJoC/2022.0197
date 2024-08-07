@@ -3,7 +3,7 @@
 
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper Forecasting Urban Traffic States with Sparse Data Using Hankel Temporal Matrix Factorization by X. Chen, X.-L. Zhao and C. Cheng.
+The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper [Forecasting Urban Traffic States with Sparse Data Using Hankel Temporal Matrix Factorization](https://doi.org/10.1287/ijoc.2022.0197) by X. Chen, X.-L. Zhao and C. Cheng.
 
 ## Cite
 
